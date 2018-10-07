@@ -4,7 +4,7 @@ A [React.js]() bookshelf app that allows you to select and categorize books you 
 
 ## Installation and Launch
 
-1. To install the application, clone this git repository: git clone myreads (https://github.com/mjohnson24/udacity-react-myreads-master/blob/master/README.md)
+1. To install the application, clone this git repository: git clone https://github.com/mjohnson24/udacity-react-myreads-master/blob/master/README.md
 
 2. Go into the application folder
 
