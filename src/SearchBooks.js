@@ -101,7 +101,7 @@ class SearchBooks extends React.Component {
                     style={{
                       width: 135,
                       height: 200,
-                      backgroundImage: "url(" + book.imageLinks.thumbnail + ")"
+                      backgroundImage: book.imageLinks ? "url(" +book.imageLinks.thumbnail + ")" : '#'
                     }}
                   />
                   <div className="book-shelf-change">
